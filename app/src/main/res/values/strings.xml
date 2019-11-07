@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BasicListView</string>
+    <string-array name="country_names">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>nepal</item>
+        <item>Vutan</item>
+        <item>MalDivs</item>
+        <item>Indoneshia</item>
+        <item>Filipine</item>
+        <item>Turky</item>
+        <item>Malay</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+
+
+    </string-array>
+
+</resources>
